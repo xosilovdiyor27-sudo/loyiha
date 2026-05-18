@@ -19,3 +19,5 @@ class ProductCreate(BaseModel):
 class ProductUpdate(BaseModel):
     name: str
     quantity: int
+
+
